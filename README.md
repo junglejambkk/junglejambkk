@@ -116,9 +116,9 @@ jungle-jam-bkk/
 ## 📞 Contact
 
 - **Website**: https://junglejambkk.com
-- **Email**: info@junglejambkk.com
+- **Email**: junglejambkk@gmail.com
 - **Instagram**: @junglejambkk
-- **Telegram**: @JungleJamBKK
+- **Facebook**: @JungleJamBKK
 
 ## 📄 License
 
